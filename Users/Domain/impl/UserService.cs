@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class UserService
+    public class UserService : IUserService
+
     {
     }
 }
